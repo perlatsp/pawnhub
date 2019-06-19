@@ -1,0 +1,21 @@
+{
+  "name": "@perlatsp/pawnhub",
+  "version": "0.0.1",
+  "description": "Simple CLI app using haveibeenpawned.com API.",
+  "main": "index.js",
+  "bin": {
+    "pawnhub": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "pawned"
+  ],
+  "author": "Perlat Kociaj",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
